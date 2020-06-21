@@ -1,0 +1,757 @@
+    [{    
+        "testName": "HOMOCYSTEINE",
+        "technology": "C.L.I.A",
+        "units": "µmol/L",
+        "Range": [-1, 30]
+    }
+    {
+        "testName": "LIPOPROTEIN (A) [LP(A)] ",
+        "technology": "IMMUNOTURBIDIMETRY",
+        "units": "mg/dl",
+        "Range": [-1, 30]
+    }
+    {   "testName": "25-OH VITAMIN D (TOTAL)",
+        "technology": "C.L.I.A ",
+        "units": "ng/ml",
+        "Range": [-1, 20]
+    }
+    {   "testName": "25-OH VITAMIN D (TOTAL)",
+        "technology": "C.L.I.A ",
+        "units": "ng/ml",
+        "Range": [20, 30]
+    }
+    {
+        "testName": "25-OH VITAMIN D (TOTAL)",
+        "technology": "C.L.I.A ",
+        "units": "ng/ml",
+        "Range": [30, 100]
+    }
+    {
+        "testName": "25-OH VITAMIN D (TOTAL)",
+        "technology": "C.L.I.A ",
+        "units": "ng/ml",
+        "Range": [1, 100]
+    }
+    {
+        "testName": "VITAMIN B-12",
+        "technology": "C.L.I.A ",
+        "units": "pg/ml",
+        "Range": [211, 911]
+    }
+    {
+        "testName": "APOLIPOPROTEIN - A1 (APO-A1)  ",
+        "technology": "IMMUNOTURBIDIMETRY ",
+        "units": "mg/dL",
+        "Range": [86, 152]
+    }
+    {
+        "testName": "APOLIPOPROTEIN - A1 (APO-A1)  ",
+        "technology": "IMMUNOTURBIDIMETRY ",
+        "units": "mg/dL",
+        "Range": [94, 162]
+    }
+    {
+            "testName": "APOLIPOPROTEIN - A1 (APO-B)  ",
+            "technology": "IMMUNOTURBIDIMETRY ",
+            "units": "mg/dL",
+            "Range": [56, 145]
+        
+    }
+    {
+        "testName": "APOLIPOPROTEIN - A1 (APO-B)  ",
+        "technology": "IMMUNOTURBIDIMETRY ",
+        "units": "mg/dL",
+        "Range": [53, 138]
+    
+    }
+    {
+        "testName": "APO B / APO A1 RATIO (APO B/A1)",
+        "technology": "IMMUNOTURBIDIMETRY ",
+        "units": "Ratio",
+        "Range": [0.4, 1.26]
+    
+    }
+    {
+        "testName": "APO B / APO A1 RATIO (APO B/A1)",
+        "technology": "IMMUNOTURBIDIMETRY ",
+        "units": "Ratio",
+        "Range": [0.38, 1.14]
+    
+    }
+    {
+        "testName": "IRON",
+        "technology": "PHOTOMETRY ",
+        "units": "µg/dl",
+        "Range": [65, 175]
+    
+    }
+    {
+        "testName": "IRON",
+        "technology": "PHOTOMETRY ",
+        "units": "µg/dl",
+        "Range": [50, 170]
+    
+    }
+    {
+        "testName": "IROTOTAL IRON BINDING CAPACITY (TIBC) ",
+        "technology": "PHOTOMETRY ",
+        "units": "µg/dl",
+        "Range": [225, 535]
+    
+    }
+    {
+        "testName": "IROTOTAL IRON BINDING CAPACITY (TIBC) ",
+        "technology": "PHOTOMETRY ",
+        "units": "µg/dl",
+        "Range": [215, 535]
+    
+    }
+    {
+        "testName": "% TRANSFERRIN SATURATION",
+        "technology": "CALCULATED  ",
+        "units": "%",
+        "Range": [13, 45]
+    
+    }
+    {
+        "testName": "FERRITIN ",
+        "technology": "C.L.I.A ",
+        "units": "ng/ml",
+        "Range": [22, 322]
+    
+    }
+    {
+        "testName": "FERRITIN ",
+        "technology": "C.L.I.A ",
+        "units": "ng/ml",
+        "Range": [10, 291]
+    
+    }
+    {
+        "testName": "HIGH SENSITIVITY C-REACTIVE PROTEIN (HS-CRP) ",
+        "technology": "IMMUNOTURBIDIMETRY",
+        "units": "mg/L",
+        "Range": [-1, 3]
+    
+    }
+    {
+        "testName": "HIGH SENSITIVITY C-REACTIVE PROTEIN (HS-CRP) ",
+        "technology": "PHOTOMETRY ",
+        "units": "U/L",
+        "Range": [28, 100]
+    
+    }
+    {
+        "testName": "LIPASE ",
+        "technology": "PHOTOMETRY ",
+        "units": "U/L",
+        "Range": [5.6, 51.3]
+    
+    }
+    {
+        "testName": "FRUCTOSAMINE ",
+        "technology": "PHOTOMETRY ",
+        "units": "µmol/L",
+        "Range": [-1, 286]
+    
+    }
+    {
+        "testName": "BLOOD KETONE (D3HB)",
+        "technology": "PHOTOMETRY ",
+        "units": "mg/dL",
+        "Range": [0.21, 2.81]
+    
+    }
+    {
+        "testName": "BLOOD KETONE (D3HB)",
+        "technology": "PHOTOMETRY ",
+        "units": "mg/dL",
+        "Range": [0.21, 2.81]
+    
+    }
+    {
+        "testName": "TESTOSTERONE",
+        "technology": "C.L.I.A",
+        "units": "ng/dL",
+        "Range": [1.64, 753.38]
+    
+    }
+    {
+        "testName": "TESTOSTERONE",
+        "technology": "C.L.I.A",
+        "units": "ng/dL",
+        "Range": [86.49, 788.22]
+    
+    }
+    {
+        "testName": "TESTOSTERONE",
+        "technology": "C.L.I.A",
+        "units": "ng/dL",
+        "Range": [12.09, 788.22]
+    
+    }
+    {
+        "testName": "TESTOSTERONE",
+        "technology": "C.L.I.A",
+        "units": "ng/dL",
+        "Range": [12.09, 788.22]
+    
+    }
+    {  "testName": "TESTOSTERONE",
+        "technology": "C.L.I.A",
+        "units": "ng/dL",
+        "Range": [7, 48.93]
+    }
+    {  "testName": "TESTOSTERONE",
+        "technology": "C.L.I.A",
+        "units": "ng/dL",
+        "Range": [ 7, 25.91]
+    }
+    {  "testName": "TESTOSTERONE",
+        "technology": "C.L.I.A",
+        "units": "ng/dL",
+        "Range": [ 7, 25.91]
+    }
+    {
+        "testName": "TESTOSTERONE",
+        "technology": "C.L.I.A",
+        "units": "ng/dL",
+        "Range": [  7 , 341.53]
+    }
+    {
+        "testName": "TESTOSTERONE",
+        "technology": "C.L.I.A",
+        "units": "ng/dL",
+        "Range": [ 7, 562.59]
+    }
+    {
+        "testName": "TESTOSTERONE",
+        "technology": "C.L.I.A",
+        "units": "ng/dL",
+        "Range": [ 9.34, 562.59] 
+    }
+    {
+        "testName": "TESTOSTERONE",
+        "technology": "C.L.I.A",
+        "units": "ng/dL",
+        "Range": [ 23.28 , 742.46] 
+    }
+    {
+        "testName": "TESTOSTERONE",
+        "technology": "C.L.I.A",
+        "units": "ng/dL",
+        "Range": [  144.15, 841.44] 
+    }
+    {
+        "testName": "TESTOSTERONE",
+        "technology": "C.L.I.A",
+        "units": "ng/dL",
+        "Range": [118.22, 948.56] 
+    }
+    {
+        "testName": "TESTOSTERONE",
+        "technology": "C.L.I.A",
+        "units": "ng/dL",
+        "Range": [7.00, 108.30 ]
+    }
+    {
+        "testName": "TESTOSTERONE",
+        "technology": "C.L.I.A",
+        "units": "ng/dL",
+        "Range": [17.55 ,50.41]
+    }
+    {
+        "testName": "TESTOSTERONE",
+        "technology": "C.L.I.A",
+        "units": "ng/dL",
+        "Range": [17.55 ,50.41]
+    }
+    {
+        "testName": "ALKALINE PHOSPHATASE ",
+        "technology": "PHOTOMETRY",
+        "units": "U/l ",
+        "Range": [53, 128]
+    }
+    {
+        "testName": "BILIRUBIN - TOTAL ",
+        "technology": "PHOTOMETRY",
+        "units": "mg/dl",
+        "Range": [0.3,1.2]
+    }
+    {
+        "testName": "BILIRUBIN - TOTAL ",
+        "technology": "PHOTOMETRY",
+        "units": "mg/dl",
+        "Range": [-1,0.3]
+    }
+    {
+        "testName": "BILIRUBIN - TOTAL ",
+        "technology": "CALCULATED",
+        "units": "mg/dl",
+        "Range": [0,0.9]
+    }
+    {
+        "testName": "GAMMA GLUTAMYL TRANSFERASE (GGT)",
+        "technology": "PHOTOMETRY",
+        "units": "U/l",
+        "Range": [-1,55]
+    }
+    {
+        "testName": "ASPARTATE AMINOTRANSFERASE (SGOT) ",
+        "technology": "PHOTOMETRY",
+        "units": "U/l",
+        "Range": [-1,37]
+    }
+    {
+        "testName": "ALANINE TRANSAMINASE (SGPT)",
+        "technology": "PHOTOMETRY",
+        "units": "U/l",
+        "Range": [13,40]
+    }
+    {
+        "testName": "PROTEIN - TOTAL",
+        "technology": "PHOTOMETRY",
+        "units": "gm/dl",
+        "Range": [5.7, 8.2]
+    }
+    {   "testName": "ALBUMIN - SERUM",
+        "technology": "PHOTOMETRY",
+        "units": "gm/dl",
+        "Range": [3.2,4.8]
+
+    }
+    {   "testName": "SERUM GLOBULIN",
+        "technology": "PHOTOMETRY",
+        "units": "gm/dl",
+        "Range": [2.5,3.4]
+
+    }
+    {   "testName": "SERUM GLOBULIN",
+        "technology": "PHOTOMETRY",
+        "units": "gm/dl",
+        "Range": [0.9, 2]
+
+    }
+    {   "testName": "TOTAL CHOLESTEROL",
+        "technology": "PHOTOMETRY",
+        "units": "mg/dl",
+        "Range": [125,200]
+
+    }
+    {   "testName": "HDL CHOLESTEROL - DIRECT",
+        "technology": "PHOTOMETRY",
+        "units": "mg/dl",
+        "Range": [35,80]
+
+    }
+    {   "testName": "LDL CHOLESTEROL - DIRECT",
+        "technology": "PHOTOMETRY",
+        "units": "mg/dl",
+        "Range": [1.5,3.5]
+
+    }
+    {   "testName": "TRIGLYCERIDES",
+        "technology": "PHOTOMETRY",
+        "units": "mg/dl",
+        "Range": [25,200]
+
+    }
+    {   "testName": "TC/ HDL CHOLESTEROL RATIO",
+        "technology": "PHOTOMETRY",
+        "units": "Ratio ",
+        "Range": [1.5,3.5]
+
+    }
+    {   "testName": "VLDL CHOLESTEROL",
+        "technology": "PHOTOMETRY",
+        "units": "mg/dl ",
+        "Range": [5, 40]
+
+    }
+    {   "testName": "NON-HDL CHOLESTEROL",
+        "technology": "PHOTOMETRY",
+        "units": "mg/dl ",
+        "Range": [-1, 160]
+
+    }
+    {   "testName": "CALCIUM",
+        "technology": "PHOTOMETRY",
+        "units": "mg/dl ",
+        "Range": [8.8,10.6]
+
+    }
+    {   "testName": "URIC ACID",
+        "technology": "PHOTOMETRY",
+        "units": "mg/dl ",
+        "Range": [3.7, 9.2]
+
+    }
+    {   "testName": "BLOOD UREA NITROGEN (BUN)",
+        "technology": "PHOTOMETRY",
+        "units": "mg/dl ",
+        "Range": [7, 25]
+
+    }
+    {   "testName": "CREATININE - SERUM",
+        "technology": "PHOTOMETRY",
+        "units": "mg/dl ",
+        "Range": [0.6,1.1]
+
+    }
+    {   "testName": "BUN / SR.CREATININE RATIO",
+        "technology": "CALCULATED",
+        "units": "ratio ",
+        "Range": [9:1,23:1]
+
+    }
+    {   "testName": "SODIUM",
+        "technology": "I.S.E",
+        "units": "mmol/l",
+        "Range": [132,146]
+
+    }
+    {   "testName": "CHLORIDE",
+        "technology": "I.S.E",
+        "units": "mmol/l",
+        "Range": [99,109]
+
+    }
+    {   "testName": "TOTAL TRIIODOTHYRONINE (T3)",
+        "technology": "C.L.I.A",
+        "units": "ng/dl ",
+        "Range": [60,200]
+
+    }
+    {   "testName": "TOTAL THYROXINE (T4)",
+        "technology": "C.L.I.A",
+        "units": "µg/dl",
+        "Range": [4.5,12]
+
+    }
+    {   "testName": "THYROID STIMULATING HORMONE (TSH)",
+        "technology": "C.L.I.A",
+        "units": "µIU/ml",
+        "Range": [0.3,5.5]
+
+    }
+    {   "testName": "EST. GLOMERULAR FILTRATION RATE (eGFR)(Normal)",
+        "technology": "CALCULATED",
+        "units": "mL/min/1.73 m2",
+        "Range": [1,90]
+
+    }
+    {   "testName": "EST. GLOMERULAR FILTRATION RATE (eGFR)(Mild Dicrease)",
+        "technology": "CALCULATED",
+        "units": "mL/min/1.73 m2",
+        "Range": [60,89]
+
+    } 
+    {   "testName": "EST. GLOMERULAR FILTRATION RATE (eGFR)( Mild to Moderate Decrease)",
+        "technology": "CALCULATED",
+        "units": "mL/min/1.73 m2",
+        "Range": [45,59]
+
+    }
+    {   "testName": "EST. GLOMERULAR FILTRATION RATE (eGFR)( Moderate to Severe Decrease)",
+        "technology": "CALCULATED",
+        "units": "mL/min/1.73 m2",
+        "Range": [30,44]
+
+    }
+    {   "testName": "EST. GLOMERULAR FILTRATION RATE (eGFR)( Severe Decrease)",
+        "technology": "CALCULATED",
+        "units": "mL/min/1.73 m2",
+        "Range": [15,29]
+
+    }
+    {   "testName": "HbA1c - (HPLC - NGSP Certified) (Normal)",
+        "technology": "H.P.L.C ",
+        "units": "%",
+        "Range": [-1,6]
+
+    }
+    {   "testName": "HbA1c - (HPLC - NGSP Certified) (Good Control)",
+        "technology": "H.P.L.C ",
+        "units": "%",
+        "Range": [6,7]
+
+    }
+    {   "testName": "HbA1c - (HPLC - NGSP Certified) (Fair Control)",
+        "technology": "H.P.L.C ",
+        "units": "%",
+        "Range": [7,8]
+
+    }
+    {   "testName": "HbA1c - (HPLC - NGSP Certified) (Unsatisfactory Control)",
+        "technology": "H.P.L.C ",
+        "units": "%",
+        "Range": [8,10]
+
+    }
+    {   "testName": "HbA1c - (HPLC - NGSP Certified) (Poor Control)",
+        "technology": "H.P.L.C ",
+        "units": "%",
+        "Range": [1,10]
+
+    }
+    {   "testName": "AVERAGE BLOOD GLUCOSE (ABG)",
+        "technology": "CALCULATED",
+        "units": "mg/dl",
+        "Range": [1,10]
+
+    }
+    {   "testName": "HbA1c - (HPLC - NGSP Certified) (Excellent Control)",
+        "technology": "CALCULATED",
+        "units": "mg/dl",
+        "Range": [90,120]
+
+    }
+    {   "testName": "HbA1c - (HPLC - NGSP Certified) ( Good Control)",
+        "technology": "CALCULATED",
+        "units": "mg/dl",
+        "Range": [121,150]
+
+    }
+    {   "testName": "HbA1c - (HPLC - NGSP Certified) ( Average Control)",
+        "technology": "CALCULATED",
+        "units": "mg/dl",
+        "Range": [151,180]
+
+    }
+    {   "testName": "HbA1c - (HPLC - NGSP Certified) ( Action  Suggested)",
+        "technology": "CALCULATED",
+        "units": "mg/dl",
+        "Range": [181,210]
+
+    }
+    {   "testName": "HbA1c - (HPLC - NGSP Certified) ( Panic Value)",
+        "technology": "CALCULATED",
+        "units": "mg/dl",
+        "Range": [1,211]
+
+    }
+    {   "testName": "TOTAL LEUCOCYTES COUNT",
+        "technology": "CALCULATED",
+        "units": "X 10³ / µL",
+        "Range": [4,10]
+
+    }
+    {   "testName": "NEUTROPHILS",
+        "technology": "CALCULATED",
+        "units": "%",
+        "Range": [40,80]
+
+    }
+    {   "testName": "LYMPHOCYTE PERCENTAGE",
+        "technology": "CALCULATED",
+        "units": "%",
+        "Range": [20,40]
+
+    }
+    {   "testName": "MONOCYTES",
+        "technology": "CALCULATED",
+        "units": "%",
+        "Range": [0,10]
+
+    }
+    {   "testName": "EOSINOPHILS",
+        "technology": "CALCULATED",
+        "units": "%",
+        "Range": [0,6]
+
+    }
+    {   "testName": "BASOPHILS",
+        "technology": "CALCULATED",
+        "units": "%",
+        "Range": [-1,2]
+    }
+    {   "testName": "BASOPHILS",
+        "technology": "CALCULATED",
+        "units": "%",
+        "Range": [-1,2]
+
+    }
+    {   "testName": "IMMATURE GRANULOCYTE PERCENTAGE(IG%)",
+        "technology": "CALCULATED",
+        "units": "%",
+        "Range": [0,0.5]
+
+    }
+    {   "testName": "NEUTROPHILS - ABSOLUTE COUNT",
+        "technology": "CALCULATED",
+        "units": "X 10³ / µL",
+        "Range": [2.0,7.0]
+
+    }
+    {   "testName": "LYMPHOCYTES - ABSOLUTE COUNT",
+        "technology": "CALCULATED",
+        "units": "X 10³ / µL",
+        "Range": [1,3]
+
+    }
+    {   "testName": "MONOCYTES - ABSOLUTE COUNT",
+        "technology": "CALCULATED",
+        "units": "X 10³ / µL",
+        "Range": [0.2,1]
+
+    }
+    {   "testName": "BASOPHILS - ABSOLUTE COUNT",
+        "technology": "CALCULATED",
+        "units": "X 10³ / µL",
+        "Range": [0,0.1]
+
+    }
+    {   "testName": "EOSINOPHILS - ABSOLUTE COUNT",
+        "technology": "CALCULATED",
+        "units": "X 10³ / µL",
+        "Range": [0,0.5]
+
+    }
+    {   "testName": "IMMATURE GRANULOCYTES(IG)",
+        "technology": "CALCULATED",
+        "units": "X 10³ / µL",
+        "Range": [0,0.3]
+
+    }
+    {   "testName": "TOTAL RBC",
+        "technology": "CALCULATED",
+        "units": "X 10^6/µL",
+        "Range": [4.5,5.5]
+
+    }
+    {   "testName": "NUCLEATED RED BLOOD CELLS",
+        "technology": "CALCULATED",
+        "units": "X 10³ / µL",
+        "Range": [-1,0.01]
+
+    }
+    {   "testName": "NUCLEATED RED BLOOD CELLS %",
+        "technology": "CALCULATED",
+        "units": "%",
+        "Range": [-1,0.01]
+
+    }
+    {   "testName": "HEMOGLOBIN",
+        "technology": "CALCULATED",
+        "units": "g/dL",
+        "Range": [13,17]
+
+    }
+    {   "testName": "HEMATOCRIT(PCV)",
+        "technology": "CALCULATED",
+        "units": "%",
+        "Range": [40,50]
+
+    }
+    {   "testName": "MEAN CORPUSCULAR VOLUME(MCV)",
+        "technology": "CALCULATED",
+        "units": "fL",
+        "Range": [83,101]
+
+    }
+    {   "testName": "MEAN CORPUSCULAR HEMOGLOBIN(MCH)",
+        "technology": "CALCULATED",
+        "units": "pq",
+        "Range": [27,32]
+
+    }
+    {   "testName": "MEAN CORP.HEMO.CONC(MCHC)",
+        "technology": "CALCULATED",
+        "units": "g/dL ",
+        "Range": [31.5,34.5]
+    }
+    {   "testName": "RED CELL DISTRIBUTION WIDTH - SD(RDW-SD)",
+        "technology": "CALCULATED",
+        "units": "fL",
+        "Range": [39,46]
+
+    }
+    {   "testName": "RED CELL DISTRIBUTION WIDTH (RDW-CV)",
+        "technology": "CALCULATED",
+        "units": "%",
+        "Range": [11.6,14]
+
+    }
+    {   "testName": "PLATELET DISTRIBUTION WIDTH(PDW)",
+        "technology": "CALCULATED",
+        "units": "fL",
+        "Range": [9.6,15.2]
+
+    }
+    {   "testName": "MEAN PLATELET VOLUME(MPV)",
+        "technology": "CALCULATED",
+        "units": "fL",
+        "Range": [6.5,12]
+
+    }
+    {   "testName": "PLATELET COUNT",
+        "technology": "CALCULATED",
+        "units": "X 10³ / µL",
+        "Range": [150,400]
+
+    }
+    {   "testName": "PLATELET TO LARGE CELL RATIO(PLCR)",
+        "technology": "CALCULATED",
+        "units": "%",
+        "Range": [19.7,42.4]
+
+    }
+    {   "testName": "PLATELETCRIT(PCT)",
+        "technology": "CALCULATED",
+        "units": "%",
+        "Range": [0.19,0.39]
+
+    }
+    {   "testName": "ARSENIC ",
+        "technology": "ICP-MS",
+        "units": "µg/l ",
+        "Range": [-1,5]
+
+    }
+    {   "testName": "CADMIUM",
+        "technology": "ICP-MS",
+        "units": "µg/l ",
+        "Range": [-1,1.5]
+
+    }
+    {   "testName": "MERCURY",
+        "technology": "ICP-MS",
+        "units": "µg/l ",
+        "Range": [-1,5]
+
+    }
+    {   "testName": "LEAD",
+        "technology": "ICP-MS",
+        "units": "µg/l ",
+        "Range": [-1,150]
+
+    }
+    {   "testName": "CHROMIUM",
+        "technology": "ICP-MS",
+        "units": "µg/l ",
+        "Range": [0.10,3.99]
+    }
+    {   "testName": "BARIUM",
+        "technology": "ICP-MS",
+        "units": "µg/l ",
+        "Range": [-1,30]
+    }
+    {   "testName": "COBALT",
+        "technology": "ICP-MS",
+        "units": "µg/l ",
+        "Range": [0.10,1.50]
+    }
+    {   "testName": "CAESIUM ",
+        "technology": "ICP-MS",
+        "units": "µg/l ",
+        "Range": [-1,5]
+    }
+    {   "testName": "SELENIUM",
+        "technology": "ICP-MS",
+        "units": "µg/l ",
+        "Range": [60,340]
+    }
+    ]
+    
+     
+ 
